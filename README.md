@@ -1,2 +1,2 @@
-# exelBrute
-Exel BruteForce Script
+# EXCELBrute
+Excel BruteForce Script
